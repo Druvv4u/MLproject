@@ -1,2 +1,1 @@
-# MLproject
-winter assignment project
+# Heart-Disease-prediction
